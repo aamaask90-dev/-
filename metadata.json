@@ -1,0 +1,6 @@
+{
+  "name": "الملاحة الذكية - تحليل وتصميم الخوارزميات",
+  "description": "مشروع أكاديمي متكامل وعرض تقديمي تفاعلي للملاحة الذكية باستخدام خوارزميتي A* و Dijkstra مع محاكاة بصرية وتحليل تجريبي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
